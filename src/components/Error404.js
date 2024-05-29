@@ -12,7 +12,7 @@ const Error404 = () => {
         <br />
         Send us an e-mail about this error and try later.
       </p>
-      <a href="/">Home page</a> |
+      <a href={contentData.general.navbar_social_links.portfolio}>Home page</a> |
       <a href={contentData.general.navbar_social_links.github}>GitHub Page</a>
     </div>
   );
