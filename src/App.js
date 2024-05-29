@@ -28,7 +28,7 @@ function App() {
           path="/"
           element={
             <div>
-              <Navbar />
+              {/* <Navbar /> */}
               <Linkbar />
               {intro_screen.section.enable_section && <Intro />}
               {about_me.section.enable_section && <About />}
