@@ -64,7 +64,7 @@ const WorkExperience = () => {
           <div className="row">
             <div className="col-sm-12">
               <div className="title-box text-center">
-                <h3 className="title-a" id="experience">
+                <h3 className="title-a" id="ervaring">
                   {experience.section.title}
                   <div className="line-mf"></div>
                 </h3>

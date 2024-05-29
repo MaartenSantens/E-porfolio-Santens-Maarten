@@ -71,19 +71,10 @@ const Education = () => {
   // Extract the education data from the contentData file
   const education = contentData.academics;
 
-  // Calculate the total credits for each year
-  const totalCreditsPerYear = education.years.map((year) => {
-    return parseFloat(
-      year.courses.reduce((total, course) => {
-        return total + course.credits;
-      }, 0)
-    );
-  });
-
   // Render the education section
   return (
     <Fade triggerOnce={true}>
-      <section id="education">
+      <section id="opleiding">
         <div className="container">
           <div className="row">
             <div className="col-sm-12">
@@ -110,23 +101,35 @@ const Education = () => {
                           <thead>
                             <tr>
                               <th>
-                                {year.semester} {year.year} Courses
-                              </th>
-                              <th>
-                                Total Credits:{" "}
-                                {totalCreditsPerYear[index].toFixed(1)}
+                                {year.institution}
                               </th>
                             </tr>
                           </thead>
                           <tbody>
-                            {year.courses.map((course, index) => (
-                              <tr key={index}>
-                                <td data-tooltip={course.abbreviation}>
-                                  {course.name}
+                            <tr>
+                                <td>
+                                  Periode:
                                 </td>
-                                <td>{course.credits.toFixed(1)}</td>
-                              </tr>
-                            ))}
+                                <td>
+                                  {year.year}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                  Afstudeerrichting:
+                                </td>
+                                <td>
+                                  {year.graduation}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                  Statuus:
+                                </td>
+                                <td>
+                                  {year.status}
+                                </td>
+                            </tr>
                           </tbody>
                         </table>
                       </div>

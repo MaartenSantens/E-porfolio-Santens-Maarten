@@ -10,22 +10,22 @@ import { Fade } from "react-awesome-reveal";
 const Navbar = () => {
   const sections = [
     {
-      id: "aboutme",
+      id: "overmij",
       text: contentData.about_me.section.navbar_name,
       enable: contentData.about_me.section.enable_section,
     },
     {
-      id: "education",
+      id: "opleiding",
       text: contentData.academics.section.navbar_name,
       enable: contentData.academics.section.enable_section,
     },
     {
-      id: "experience",
+      id: "ervaring",
       text: contentData.experience.section.navbar_name,
       enable: contentData.experience.section.enable_section,
     },
     {
-      id: "projects",
+      id: "projecten",
       text: contentData.projects.section.navbar_name,
       enable: contentData.projects.section.enable_section,
     },

@@ -31,7 +31,7 @@ const Linkbar = () => {
   const socialLinks = [
     {
       icon: MdEmail,
-      href: general.navbar_social_links.email,
+      href: "mailto:${generalContent.navbar_social_links.email}",
       target: "_blank",
       rel: "noreferrer",
     },

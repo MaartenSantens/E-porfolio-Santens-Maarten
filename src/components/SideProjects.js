@@ -141,7 +141,7 @@ const SideProjects = () => {
   }, []);
 
   return (
-    <section id="recentprojects" className="recentprojects-mf sect-pt4 route">
+    <section id="projecten" className="recentprojects-mf sect-pt4 route">
       <div className="container">
         <div className="row">
           <div className="col-sm-12">

@@ -1,13 +1,12 @@
 {
   "general": {
-    "first_name": "Kevin",
-    "middle_name": "Huy",
-    "last_name": "Trinh",
+    "first_name": "Maarten",
+    "last_name": "Santens",
     "navbar_social_links": {
-      "github": "https://github.com/KevinTrinh1227",
+      "github": "https://github.com/MaartenSantens",
       "resume": "/resume",
-      "linkedin": "https://www.linkedin.com/in/kevintrinh1227",
-      "email": "kevintrinh1227@gmail.com"
+      "linkedin": "https://www.linkedin.com/in/maarten-santens-0204a62b5/",
+      "email": "maarten.santens@student.hogent.be"
     }
   },
   "repo_stats": {
@@ -21,44 +20,46 @@
     "section": {
       "enable_section": true
     },
-    "main_header": "Hello, Kevin here.",
-    "main_subtitle": "I like to build stuff occasionally.",
+    "main_header": "Hallo, Maarten hier",
+    "main_subtitle": "Welkom op mijn E-portfolio pagina",
     "intro_bio": [
-      "I'm currently a Sophomore attending St. Mary's University,",
-      "Majoring in Computer Science with minor in Mathematics.",
-      "I have a profound interest in machine learning, operating",
-      "systems, full-stack development, and everything in between."
+      "Ik ben een student Toegepaste Informatica aan HoGent",
+      "Hier heb ik gekozen voor de afstudeerrichting Mobile & Entreprise Developer.",
+      "Ik heb net mijn stage afgerond bij delaware consulting",
+      "waar ik me voorbereid heb op het werkleven in de IT-sector"
     ],
-    "email_button": "Say hello to me!"
+    "email_button": "Druk hier om me te contacteren!"
   },
   "about_me": {
     "section": {
       "enable_section": true,
-      "title": "~/About",
-      "navbar_name": "/About",
-      "description": "Brief information about me and some of my interests."
+      "title": "~/Over mij",
+      "navbar_name": "/Over Mij",
+      "description": "Hier zal ik mezelf kort introduceren."
     },
-    "headShotUrl": "../assets/portrait.png",
+    "headShotUrl": "../assets/headshot.jpg",
     "bio": [
-      "I am currently studying computer science at St. Mary's University with a focus in computer science with a minor in mathematics. Recently, I was an undergrad research intern at the McNair Research Program of STMU, a Post-Baccalaureate Achievement Program. Some of my current goals are to build experience and to acquire meaningful connections for personal development.",
-      "I have a profound interest in numerous types of software development such as machine learning, operating systems, and especially in full-stack development. I'm a huge desk setup and PC enthusiast. In my free time, I enjoy playing/analyzing chess games, online window shopping, thrifting, and playing Minecraft multiplayer servers."
+      "Momenteel studeer ik Toegepaste Informatica aan de Hogeschool Gent. Tijdens mijn studie heb ik kennisgemaakt met verschillende aspecten van de IT-wereld. Op basis van de diverse ervaringen die ik heb opgedaan, heb ik uiteindelijk besloten af te studeren met een specialisatie in Mobile & Enterprise Development.",
+      "Van jongs af aan ben ik altijd al geïnteresseerd geweest in technologie, met name in computers. Deze interesse heeft ertoe geleid dat ik al in het vijfde middelbaar heb gekozen om een opleiding in Informatica te volgen. Dit bleek een uitstekende keuze te zijn, aangezien ik me hier volledig op mijn plaats voel."
     ],
-    "skills_caption": "Some technologies I've worked with:",
+    "skills_caption": "Enkele technologieën waar ik mee gewerkt heb:",
     "skills": [
       "JavaScript ES6+",
       "React.js",
       "Node.js",
       "HTML & CSS",
       "Python 3",
-      "Linux OS & Git"
+      "Dynamics 365 Finance and Operations",
+      "Java",
+      "C#"
     ]
   },
   "academics": {
     "section": {
       "enable_section": true,
-      "title": "~/Education",
-      "navbar_name": "/Academics",
-      "description": "Courses that I have completed or am on track to complete. Current GPA: 3.24"
+      "title": "~/Opleiding",
+      "navbar_name": "/Opleiding",
+      "description": "Hierbij een kort overzicht van mijn academischer carrière:"
     },
     "general": {
       "school": "St. Mary's University",
@@ -68,160 +69,48 @@
     },
     "years": [
       {
-        "year": 2021,
-        "semester": "Fall",
-        "courses": [
-          {
-            "abbreviation": "CS 1310",
-            "name": "C Programming I",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 1411",
-            "name": "Pre Calculus",
-            "credits": 4.0
-          },
-          {
-            "abbreviation": "EN 1311",
-            "name": "Rhetoric and Composition",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "PL 1301",
-            "name": "Introduction to Philosophy",
-            "credits": 3.0
-          }
-        ]
+        "year": "2018-2020",
+        "institution": "Sint-Paulus school Campus College Waregem",
+        "graduation": "Informaticabeheer",
+        "status" : "Afgestudeerd"
       },
       {
-        "year": 2022,
-        "semester": "Spring",
-        "courses": [
-          {
-            "abbreviation": "CS102",
-            "name": "C Programming II",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 3300",
-            "name": "Intro to Data Analytics Python Programming I",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2412",
-            "name": "Calculus I",
-            "credits": 4.0
-          },
-          {
-            "abbreviation": "FYE 1301",
-            "name": "First Year Seminar",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2412",
-            "name": "Multicultural American Lit",
-            "credits": 3.0
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "semester": "Fall",
-        "courses": [
-          {
-            "abbreviation": "CS 2315",
-            "name": "Algorithms and Data Structure",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 2313",
-            "name": "Object Oriented Programming I",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 2110",
-            "name": "Sophomore CS Seminar",
-            "credits": 1.0
-          },
-          {
-            "abbreviation": "CM 1341",
-            "name": "Intro to Human Communication",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "AR 1300",
-            "name": "Concepts in Visual Arts",
-            "credits": 3.0
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "semester": "Spring",
-        "courses": [
-          {
-            "abbreviation": "CS 2350",
-            "name": "Computer Architecture",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 2323",
-            "name": "Object Oritented Programming II",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 4375",
-            "name": "Advanced Topics (Python Data Analytics)",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2323",
-            "name": "Discrete Math Structures",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "TH 1301",
-            "name": "Introduction to Thelogy",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "AC 2301",
-            "name": "Financial Accounting",
-            "credits": 3.0
-          }
-        ]
+        "year": "2020-2024",
+        "institution": "HoGent",
+        "graduation": "Toegepaste Informatice (Mobile & Entreprise Developer)",
+        "status" : "In uitvoering"
       }
     ]
   },
   "experience": {
     "section": {
       "enable_section": true,
-      "title": "~/Experience",
-      "navbar_name": "/Experience",
-      "description": "Positions, team projects, or organizations I am/have been a part of."
+      "title": "~/Ervaring",
+      "navbar_name": "/Ervaring",
+      "description": "Aangezien ik nog studeer, staan hier voornamelijk vakantiejobs en weekendjobs"
     },
     "experience_items": [
       {
-        "organization": "McNair STMU",
-        "title": "Research Intern",
-        "start_date": "May 2023",
-        "end_date": " July 2023",
+        "organization": "TVH",
+        "title": "Studentmedewerker",
+        "start_date": "Augustus 2020",
+        "end_date": "Augustus 2020",
         "description": [
-          "Conducted thorough undergraduate research on compiler design and high-level to low-level language translation.",
-          "Developed a lightweight translator by building a parser, lexer, and semantic analyzer module to convert custom code into assembly language for a virtual machine.",
-          "Collaborated closely with mentors to refine development skills and deepen understanding of language design principles and compiler design methodologies."
+          "Het werk was in de inpakcentrale van TVH.",
+          "Mijn taak bestond uit het verpakken van binnenkomende bestellingen in de juiste dozen.",
+          "Vervolgens kreeg ik de taak om samen met een medestudent de rekken schoon te maken."
         ]
       },
       {
-        "organization": "NP Engagement",
-        "title": "Web Developer Intern",
-        "start_date": "August 2022",
-        "end_date": "November 2022",
+        "organization": "delaware",
+        "title": "Stagiair in het Dynamics Development Team",
+        "start_date": "Februari 2024",
+        "end_date": "Mei 2024",
         "description": [
-          "Maintained and updated numerous partner websites and online services, ensuring peak performance and relevance with proficiency in HTML, CSS, and JavaScript.",
-          "Integrated custom API scripts, optimized websites to fulfill unique client requirements and enhance user experience.",
-          "Utilized my proficiency in WordPress, crafting visually stunning and highly functional platforms tailored to precise client specifications, ensuring optimal user engagement.",
-          "Drove tangible business growth and significantly boosted client visibility and traffic by orchestrating cross-functional teamwork, applying my technical skills and strategic insights."
+          "Mijn stageopdracht bestond uit het consolideren van een intern project van delaware.",
+          "Hierbij heb ik verschillende manier bestudeerd om consolidaties uit te voeren.",
+          "Tijdens mijn stage heb ik uitgebreid gewerkt met Python, waardoor mijn vaardigheden op dat gebied aanzienlijk zijn verbeterd",
+          "Bovendien bood de stage talrijke mogelijkheden om mijn soft skills verder te ontwikkelen, een kans die ik ten volle heb benut om mezelf voor te bereiden op de professionele wereld."
         ]
       }
     ]
@@ -230,87 +119,40 @@
     "section": {
       "enable_section": true,
       "title": "~/Projects",
-      "navbar_name": "/Projects",
+      "navbar_name": "/Projecten",
       "description": "Some of my most recent or past favorite creations or work."
     },
     "project_items": [
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Prize-Pick-Predictions",
-        "project_name": "STMU Yelp",
-        "description": "Application that showcases popular locations for college students specifically for St. Mary's students. collaborated with an 7 person team.",
+        "api_github_repo_link": "",
+        "project_name": "E-portfolio Santens Maarten",
+        "description": "Dit is een E-portfolio die ik voor mezelf opgesteld heb. Dit werd opgesteld voor het vak IT Professional & CareerOriëntation.",
         "resources_used": [
-          "JavaScript",
-          "Python",
-          "Flask",
           "React.js",
           "CSS",
-          "MongoDB",
-          "HTML",
-          "Rest API"
+          "HTML"
         ],
-        "start_date": "Sept 2022",
-        "end_date": "May 2023",
+        "start_date": "Mei 2024",
+        "end_date": "Mei 2024",
         "links": [
           {
-            "href": "https://github.com/KevinTrinh1227/Prize-Pick-Predictions",
+            "href": "",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Prize-Pick-Predictions/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
           }
         ]
       },
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Hycord-Client",
-        "project_name": "Hycord Client",
-        "description": "Discord.py client that uses Hypixel & PlayerDB APIs to allow users to link and access in-game data. Simply, a versatile Hypixel Discord bot.",
-        "resources_used": ["HTML", "Discord.py", "Hypixel API"],
+        "api_github_repo_link": "",
+        "project_name": "Website pottenbakken",
+        "description": "Dit betreft een toekomstig project waarbij een website zal worden ontwikkeld voor een klant die een winkel runt. De winkel richt zich op de verkoop van producten die gebruikt kunnen worden voor pottenbakken en de potten zelf.",
+        "resources_used": [],
         "start_date": "Dec 2022",
         "end_date": "Present",
         "links": [
-          {
-            "href": "https://www.hycord.net",
-            "icon": "FiExternalLink",
-            "data_tooltip": "Information Page"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client",
-            "icon": "FaGithub",
-            "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
-          }
-        ]
-      },
-      {
-        "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Reactfolio",
-        "project_name": "Reactfolio V2",
-        "description": "An e-portfolio built with React.js that utilizes GitHub API. Designed for public use and easy configuration. The second iteration of my website.",
-        "resources_used": [
-          "React.js",
-          "NVM",
-          "HTML & CSS",
-          "JavaScript",
-          "HTML",
-          "CSS"
-        ],
-        "start_date": "Sept 2023",
-        "end_date": "Present",
-        "links": [
-          {
-            "href": "https://github.com/KevinTrinh1227/Reactfolio",
-            "icon": "FaGithub",
-            "data_tooltip": "Visit GitHub Repo"
-          }
+          
         ]
       }
     ]

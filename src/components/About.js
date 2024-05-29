@@ -57,7 +57,7 @@ const AboutMe = () => {
           <div className="row">
             <div className="col-sm-12">
               <div className="title-box">
-                <h3 className="title-a" id="aboutme">
+                <h3 className="title-a" id="overmij">
                   {aboutMe.section.title} <div className="line-mf"></div>
                 </h3>
                 <p className="subtitle-a">{aboutMe.section.description}</p>
