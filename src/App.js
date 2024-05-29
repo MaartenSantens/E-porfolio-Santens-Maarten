@@ -25,7 +25,7 @@ function App() {
     <Router>
       <Routes>
         <Route
-          path="https://maartensantens.github.io/E-porfolio-Santens-Maarten/"
+          path="/"
           element={
             <div>
               <Navbar />
