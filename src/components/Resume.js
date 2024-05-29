@@ -23,7 +23,7 @@ const Portfolio = () => {
     <div style={{ height: "100vh", overflow: "hidden" }}>
       <embed
         id="pdfEmbed"
-        src="../assets/CV_SantensMaarten_28-05-2024.pdf"
+        src="https://maartensantens.github.io/E-portfolio-Santens-Maarten/assets/CV_SantensMaarten_28-05-2024.pdf"
         type="application/pdf"
         width="100%"
         height="100%"

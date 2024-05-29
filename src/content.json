@@ -6,7 +6,8 @@
       "github": "https://github.com/MaartenSantens",
       "resume": "/resume",
       "linkedin": "https://www.linkedin.com/in/maarten-santens-0204a62b5/",
-      "email": "maarten.santens@student.hogent.be"
+      "email": "maarten.santens@student.hogent.be",
+      "portfolio" : "https://maartensantens.github.io/E-portfolio-Santens-Maarten/"
     }
   },
   "repo_stats": {
@@ -21,7 +22,7 @@
       "enable_section": true
     },
     "main_header": "Hallo, Maarten hier",
-    "main_subtitle": "Welkom op mijn E-portfolio pagina",
+    "main_subtitle": "Welkom op mijn ² pagina",
     "intro_bio": [
       "Ik ben een student Toegepaste Informatica aan HoGent",
       "Hier heb ik gekozen voor de afstudeerrichting Mobile & Entreprise Developer.",
@@ -37,7 +38,7 @@
       "navbar_name": "/Over Mij",
       "description": "Hier zal ik mezelf kort introduceren."
     },
-    "headShotUrl": "../assets/headshot.jpg",
+    "headShotUrl": "assets/headshot.jpg",
     "bio": [
       "Momenteel studeer ik Toegepaste Informatica aan de Hogeschool Gent. Tijdens mijn studie heb ik kennisgemaakt met verschillende aspecten van de IT-wereld. Op basis van de diverse ervaringen die ik heb opgedaan, heb ik uiteindelijk besloten af te studeren met een specialisatie in Mobile & Enterprise Development.",
       "Van jongs af aan ben ik altijd al geïnteresseerd geweest in technologie, met name in computers. Deze interesse heeft ertoe geleid dat ik al in het vijfde middelbaar heb gekozen om een opleiding in Informatica te volgen. Dit bleek een uitstekende keuze te zijn, aangezien ik me hier volledig op mijn plaats voel."
