@@ -4,7 +4,7 @@
     "last_name": "Santens",
     "navbar_social_links": {
       "github": "https://github.com/MaartenSantens",
-      "resume": "/resume",
+      "resume": "https://maartensantens.github.io/E-portfolio-Santens-Maarten/#/resume",
       "linkedin": "https://www.linkedin.com/in/maarten-santens-0204a62b5/",
       "email": "maarten.santens@student.hogent.be",
       "portfolio" : "https://maartensantens.github.io/E-portfolio-Santens-Maarten/"
@@ -22,7 +22,7 @@
       "enable_section": true
     },
     "main_header": "Hallo, Maarten hier",
-    "main_subtitle": "Welkom op mijn ² pagina",
+    "main_subtitle": "Welkom op mijn E-portfolio pagina",
     "intro_bio": [
       "Ik ben een student Toegepaste Informatica aan HoGent",
       "Hier heb ik gekozen voor de afstudeerrichting Mobile & Entreprise Developer.",

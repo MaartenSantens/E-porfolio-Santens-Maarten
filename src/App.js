@@ -40,8 +40,7 @@ function App() {
           }
         ></Route>
         <Route path="/resume" element={<ResumePage />} />
-        {/* <Route path="*" element={<Error404 />} /> */}
-        <Route path="*" element={<Intro />} />
+        <Route path="*" element={<Error404 />} />
       </Routes>
     </Router>
   );
