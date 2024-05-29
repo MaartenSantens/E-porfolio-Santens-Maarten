@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/E-portfolio-Santens-Maarten/static/css/main.c8909373.css",
-    "main.js": "/E-portfolio-Santens-Maarten/static/js/main.93283b50.js",
+    "main.js": "/E-portfolio-Santens-Maarten/static/js/main.9bb04d45.js",
     "static/js/488.599a2d22.chunk.js": "/E-portfolio-Santens-Maarten/static/js/488.599a2d22.chunk.js",
     "index.html": "/E-portfolio-Santens-Maarten/index.html",
     "main.c8909373.css.map": "/E-portfolio-Santens-Maarten/static/css/main.c8909373.css.map",
-    "main.93283b50.js.map": "/E-portfolio-Santens-Maarten/static/js/main.93283b50.js.map",
+    "main.9bb04d45.js.map": "/E-portfolio-Santens-Maarten/static/js/main.9bb04d45.js.map",
     "488.599a2d22.chunk.js.map": "/E-portfolio-Santens-Maarten/static/js/488.599a2d22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8909373.css",
-    "static/js/main.93283b50.js"
+    "static/js/main.9bb04d45.js"
   ]
 }
