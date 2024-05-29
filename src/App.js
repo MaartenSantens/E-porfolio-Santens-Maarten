@@ -10,7 +10,7 @@ import Footer from "./components/Footer";
 import ResumePage from "./components/Resume";
 import Error404 from "./components/Error404";
 
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 import "./styles/style.css";
 import content from "./content.json";
